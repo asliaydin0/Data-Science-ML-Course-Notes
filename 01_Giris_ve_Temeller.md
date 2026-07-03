@@ -16,3 +16,6 @@ Bilgisayarların dünyası elektriksel sinyallere dayanır:
 * **1 (Açık/Yüksek Voltaj):** Devreden akım geçtiğini temsil eder.
 * **Ölçekleme:** Karmaşık sayılar, karakterler (ASCII) ve renk kodları, bu 1 ve 0 dizilerinin (bit) birleşimiyle ifade edilir.
 
+## 2. Dijital Varlıklar
+* **Görseller:** Dijital görüntüler, aslında renk kodlarına sahip binlerce minik noktadan (pixel) oluşan bir ızgaradır. Her piksel, RGB (Red, Green, Blue) değerlerini tutan sayısal verilerden oluşur.
+* **Metin ve Ses:** Hepsi bilgisayar sisteminde önce sayısal değerlere dönüştürülür, ardından işlenir.

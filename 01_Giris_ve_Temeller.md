@@ -19,3 +19,11 @@ Bilgisayarların dünyası elektriksel sinyallere dayanır:
 ## 2. Dijital Varlıklar
 * **Görseller:** Dijital görüntüler, aslında renk kodlarına sahip binlerce minik noktadan (pixel) oluşan bir ızgaradır. Her piksel, RGB (Red, Green, Blue) değerlerini tutan sayısal verilerden oluşur.
 * **Metin ve Ses:** Hepsi bilgisayar sisteminde önce sayısal değerlere dönüştürülür, ardından işlenir.
+
+## 3. İnternet ve Web Çalışma Prensibi
+Bir web sayfasına girmek şu süreci tetikler:
+
+1. **Browser (İstemci):** İsteği başlatır.
+2. **DNS:** İstenen sitenin IP adresini (server konumu) bulur.
+3. **İnternet Servis Sağlayıcı (ISP):** İsteğin sunucuya iletilmesini sağlayan taşıyıcıdır.
+4. **Server (Sunucu):** İsteği alır ve HTML, CSS, JS kodlarını browser'a geri gönderir.

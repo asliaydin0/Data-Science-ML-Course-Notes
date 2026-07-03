@@ -8,6 +8,7 @@ Bilgisayarlar temelde veriyi işleyen ve sonuç üreten makinelerdir. Bu süreç
 3. **Çıktı (Output):** İşlenen verinin ekran, ses veya yazıcı gibi birimlerle kullanıcıya iletilmesi.
 4. **Depolama (Storage):** Verinin uzun süreli saklanması.
 
+![Bilgisayar Mimarisi](images/mimari1.png)
 
 ### Neden 1 ve 0? (Binary Sistem)
 Bilgisayarların dünyası elektriksel sinyallere dayanır:

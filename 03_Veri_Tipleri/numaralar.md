@@ -39,3 +39,6 @@ Stringler, tek (`'...'`) veya çift (`"..."`) tırnak içerisine yazılan karakt
 * **Birleştirme:** `+` operatörü ile metinleri birleştirebiliriz.
 * **Çarpma:** Bir string'i tam sayı ile çarpmak, metni tekrar ettirir.
 * **Uzunluk:** `len()` fonksiyonu metindeki karakter sayısını (boşluklar dahil) verir.
+
+### Karakter Erişimi (İndeksleme)
+Stringler birer karakter dizisidir ve Python'da indeksleme **0'dan başlar**.

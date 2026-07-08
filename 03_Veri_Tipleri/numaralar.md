@@ -31,7 +31,7 @@ sonuc = (10 + 5) * 2 / 3
 print(sonuc) # Çıktı: 10.0
 ```
 
-## 2. String (Metin) Veri Tipi
+# String (Metin) Veri Tipi
 
 Stringler, tek (`'...'`) veya çift (`"..."`) tırnak içerisine yazılan karakter dizileridir.
 

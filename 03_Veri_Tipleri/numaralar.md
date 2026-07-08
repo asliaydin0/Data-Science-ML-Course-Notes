@@ -29,7 +29,7 @@ Matematiksel işlemlerde standart işlem önceliği (Parantez, Üs, Çarpma/Böl
 # Örnek
 sonuc = (10 + 5) * 2 / 3
 print(sonuc) # Çıktı: 10.0
-
+```
 
 ## 2. String (Metin) Veri Tipi
 

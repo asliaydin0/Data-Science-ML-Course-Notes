@@ -51,3 +51,13 @@ print(s[6]) # 'a' karakterini verir
 ### Slicing (Dilimleme)
 
 Bir dizinin (string, liste vb.) belirli bir aralığını almak için kullanılır.
+
+## Söz Dizimi
+
+```python
+[başlangıç:bitiş:adım]
+```
+
+- **başlangıç:** Başlanacak indeks.
+- **bitiş:** Bu indeks dahil değildir.
+- **adım:** Kaçar kaçar ilerleyeceğini belirtir.

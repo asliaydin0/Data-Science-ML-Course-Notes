@@ -42,3 +42,8 @@ Stringler, tek (`'...'`) veya çift (`"..."`) tırnak içerisine yazılan karakt
 
 ### Karakter Erişimi (İndeksleme)
 Stringler birer karakter dizisidir ve Python'da indeksleme **0'dan başlar**.
+
+```python
+s = "Merhaba"
+print(s[0]) # 'M' karakterini verir
+print(s[6]) # 'a' karakterini verir

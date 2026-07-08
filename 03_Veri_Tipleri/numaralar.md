@@ -35,3 +35,7 @@ print(sonuc) # Çıktı: 10.0
 
 Stringler, tek (`'...'`) veya çift (`"..."`) tırnak içerisine yazılan karakter dizileridir.
 
+### Temel Özellikler
+* **Birleştirme:** `+` operatörü ile metinleri birleştirebiliriz.
+* **Çarpma:** Bir string'i tam sayı ile çarpmak, metni tekrar ettirir.
+* **Uzunluk:** `len()` fonksiyonu metindeki karakter sayısını (boşluklar dahil) verir.

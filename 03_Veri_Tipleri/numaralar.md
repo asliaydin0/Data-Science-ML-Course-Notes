@@ -48,3 +48,6 @@ s = "Merhaba"
 print(s[0]) # 'M' karakterini verir
 print(s[6]) # 'a' karakterini verir
 ```
+### Slicing (Dilimleme)
+
+Bir dizinin (string, liste vb.) belirli bir aralığını almak için kullanılır.

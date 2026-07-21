@@ -105,3 +105,8 @@ print(type(x))
 ```
 
 ---
+## B. Kullanıcıdan Veri Alma
+
+Kullanıcıdan veri almak için `input()` fonksiyonu kullanılır.
+
+> **Dikkat:** `input()` fonksiyonu her zaman **string (`str`)** döndürür. Sayısal işlemler yapılacaksa uygun veri tipine dönüştürülmelidir.

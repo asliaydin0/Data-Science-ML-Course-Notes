@@ -84,3 +84,10 @@ print(s[::-1])  # Tersten yazdır -> "amalmargorPnohtyP"
 | `s[::-1]` | String'i ters çevirir. |
 
 ---
+
+# Gelişmiş İpuçları
+
+## A. Tip Kontrolü
+
+Bir değişkenin veri tipini öğrenmek için `type()` fonksiyonu kullanılır.
+

@@ -72,3 +72,15 @@ print(s[6:])    # 6'dan sona kadar -> "Programlama"
 print(s[::2])   # Tümünü al, 2'şer atla -> "PtoPormaa"
 print(s[::-1])  # Tersten yazdır -> "amalmargorPnohtyP"
 ```
+
+### Açıklamalar
+
+| İfade | Açıklama |
+|-------|----------|
+| `s[0:6]` | İlk 6 karakteri alır. |
+| `s[6:]` | 6. indexten sonuna kadar alır. |
+| `s[:6]` | Baştan 6. indekse kadar alır. |
+| `s[::2]` | Baştan sona 2 karakter atlayarak alır. |
+| `s[::-1]` | String'i ters çevirir. |
+
+---

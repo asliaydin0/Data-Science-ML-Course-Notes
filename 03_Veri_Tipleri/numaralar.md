@@ -134,3 +134,15 @@ Python'da değişkenleri metin içine yerleştirmenin en modern ve okunabilir y�
 ```python
 f"Metin {degisken}"
 ```
+### Örnek
+
+```python
+ad = "Aslı"
+print(f"Hoş geldin, {ad}!")
+```
+
+**Çıktı**
+
+```text
+Hoş geldin, Aslı!
+```

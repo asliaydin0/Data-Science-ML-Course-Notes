@@ -123,3 +123,14 @@ Başka dönüşüm örnekleri:
 sayi = int(input("Sayı girin: "))
 ondalik = float(input("Ondalıklı sayı girin: "))
 ```
+---
+
+## C. F-String (Metin Biçimlendirme)
+
+Python'da değişkenleri metin içine yerleştirmenin en modern ve okunabilir yöntemidir.
+
+### Söz Dizimi
+
+```python
+f"Metin {degisken}"
+```

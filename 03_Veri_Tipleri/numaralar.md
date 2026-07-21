@@ -110,3 +110,10 @@ print(type(x))
 Kullanıcıdan veri almak için `input()` fonksiyonu kullanılır.
 
 > **Dikkat:** `input()` fonksiyonu her zaman **string (`str`)** döndürür. Sayısal işlemler yapılacaksa uygun veri tipine dönüştürülmelidir.
+
+### Örnek
+
+```python
+yas = int(input("Yaşınızı girin: "))
+print(yas)
+```

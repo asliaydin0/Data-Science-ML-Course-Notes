@@ -117,3 +117,9 @@ Kullanıcıdan veri almak için `input()` fonksiyonu kullanılır.
 yas = int(input("Yaşınızı girin: "))
 print(yas)
 ```
+Başka dönüşüm örnekleri:
+
+```python
+sayi = int(input("Sayı girin: "))
+ondalik = float(input("Ondalıklı sayı girin: "))
+```

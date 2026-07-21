@@ -91,3 +91,17 @@ print(s[::-1])  # Tersten yazdır -> "amalmargorPnohtyP"
 
 Bir değişkenin veri tipini öğrenmek için `type()` fonksiyonu kullanılır.
 
+### Örnek
+
+```python
+x = 10
+print(type(x))
+```
+
+**Çıktı**
+
+```python
+<class 'int'>
+```
+
+---

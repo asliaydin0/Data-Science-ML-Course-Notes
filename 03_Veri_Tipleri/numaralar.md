@@ -159,3 +159,13 @@ print(f"{ad} {yas} yaşındadır.")
 ```text
 Aslı 22 yaşındadır.
 ```
+---
+
+# Özet
+
+- `[:]` → Dilimleme (Slicing)
+- `[::-1]` → String'i ters çevirir.
+- `type()` → Veri tipini öğrenir.
+- `input()` → Kullanıcıdan veri alır.
+- `int()`, `float()` → Veri tipi dönüşümü yapar.
+- `f"{}"` → Değişkenleri metin içine yerleştirir.

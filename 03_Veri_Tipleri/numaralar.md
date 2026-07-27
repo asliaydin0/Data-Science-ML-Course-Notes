@@ -154,3 +154,8 @@ yas = 22
 
 print(f"{ad} {yas} yaşındadır.")
 ```
+**Çıktı**
+
+```text
+Aslı 22 yaşındadır.
+```

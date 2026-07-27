@@ -146,3 +146,11 @@ print(f"Hoş geldin, {ad}!")
 ```text
 Hoş geldin, Aslı!
 ```
+### Birden Fazla Değişken Kullanımı
+
+```python
+ad = "Aslı"
+yas = 22
+
+print(f"{ad} {yas} yaşındadır.")
+```
